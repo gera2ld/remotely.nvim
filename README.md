@@ -2,6 +2,8 @@
 
 A Neovim plugin to process selected content remotely.
 
+https://github.com/user-attachments/assets/15ceff5c-97ff-4814-b6a4-3b737a19b2d0
+
 ## Installation
 
 Using lazy.nvim:
